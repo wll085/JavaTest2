@@ -7,7 +7,7 @@
     - cd Exam1
     - sh run.sh
   - 执行Exam2的程序
-    - cd Exam1
+    - cd Exam2
     - 先启动服务器端执行java -cp target/Exam2.jar TCPServer
     - 再另外开一个控制台执行命令java -cp target/Exam2.jar TCPClient
     
